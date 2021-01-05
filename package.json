@@ -27,7 +27,7 @@
     "@slack/interactive-messages": "^1.7.0",
     "@slack/web-api": "^5.7.0",
     "@types/pouchdb-upsert": "^2.2.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "chalk": "^3.0.0",
     "debug": "^3.1.0",
     "dotenv": "^8.2.0",
